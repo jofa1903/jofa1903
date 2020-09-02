@@ -1,4 +1,4 @@
-# h1 Välkommen till mitt personliga repo
+# Välkommen till mitt personliga repo
 
 Jag heter Johannes och går andra året på Mittuniversitetets webbutvecklingsprogram.
 
